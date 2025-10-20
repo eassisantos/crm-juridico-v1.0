@@ -1,0 +1,8 @@
+
+{
+  "name": "CRM Jurídico Previdenciário",
+  "description": "Um sistema de CRM para escritórios de advocacia previdenciária, permitindo o gerenciamento de clientes, casos, prazos e documentos, com um assistente de IA para resumir casos e extrair dados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
